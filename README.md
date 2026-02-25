@@ -172,30 +172,6 @@ Covid19-Analysis/
 └── README.md                   # Project documentation
 ```
 
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Covid19-Analysis.git
-   cd Covid19-Analysis
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-
-3. Update file paths in the notebook to match your local directory structure (search for `D:\\Paras\\...` and replace with your own paths or use relative paths).
-
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook Covid19_Project.ipynb
-   ```
-
----
-
 ## 🙌 Acknowledgements
 
 - Dataset sourced from **Johns Hopkins University Center for Systems Science and Engineering (CSSE)**
